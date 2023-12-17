@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Technologies Used
-React.js: A JavaScript library for building user interfaces.
+React.js: A JavaScript library for building user interfaces.<br>
 Tailwind CSS: A utility-first CSS framework for building modern designs.
 
 ## Available Scripts
