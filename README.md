@@ -2,9 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Demo - https://ecommerce-website-six-dun.vercel.app/
+
 # Technologies Used
-React.js: A JavaScript library for building user interfaces.<br>
+React.js: A JavaScript library for building user interfaces.  
 Tailwind CSS: A utility-first CSS framework for building modern designs.
+
 
 ## Available Scripts
 
