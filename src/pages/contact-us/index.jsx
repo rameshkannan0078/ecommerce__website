@@ -1,9 +1,8 @@
-import CnNavbar from "../../components/CnNavbar";
+import CnNavbar from '../../components/CnNavbar';
 export default function Contactus() {
   const handleSubmit = (event) => {
     event.preventDefault();
   };
-
   return (
     <CnNavbar>
       <div className="flex items-center mt-8 p-4 justify-center h-full">
